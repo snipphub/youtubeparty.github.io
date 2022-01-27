@@ -26,7 +26,7 @@ export const videoPlayerConfig = {
 //-------------------------------------
 // Initial query for videos to display on the browse page
 export const initialVideoQuery = {
-	query: 'beautiful destinations',
+	query: 'discovery channel',
 	videoType: 'any'
 }
 
